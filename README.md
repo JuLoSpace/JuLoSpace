@@ -1,4 +1,3 @@
 ---
 
-<img align="left" alt='SimplyProgger Stats' src='https://
-github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&hide_border=true' />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimplyProgger)](https://github.com/anuraghazra/github-readme-stats)
