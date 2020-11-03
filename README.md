@@ -14,6 +14,6 @@
 <a href="https://github.com/SimplyProgger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyProgger&theme=react&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/SimplyProgger">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27" alt="Simply Progger's stats"/>
 </a>
