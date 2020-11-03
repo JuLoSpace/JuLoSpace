@@ -17,3 +17,7 @@
 <a href="https://github.com/SimplyProgger">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27" alt="Simply Progger's stats"/>
 </a>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=TheLearn&theme=react)](https://github.com/SimplyProgger/TheLearn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=T-40&theme=react)](https://github.com/SimplyProgger/T-40)
