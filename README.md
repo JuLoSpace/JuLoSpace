@@ -18,6 +18,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27" alt="Simply Progger's stats"/>
 </a>
 
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger&theme=react)](https://github.com/SimplyProgger/GitHub-ReadMe-Stats)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=TheLearn&theme=react)](https://github.com/SimplyProgger/TheLearn)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=SimplyProgger-Website&theme=react)](https://github.com/SimplyProgger/SimplyProgger-Website)
