@@ -15,10 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyProgger&theme=react&hide_langs_below=1" />
 </a>
 <a href="https://github.com/SimplyProgger">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27" alt="Simply Progger's stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27"/>
 </a>
-
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger&theme=react)](https://github.com/SimplyProgger/GitHub-ReadMe-Stats)
+<a href="https://github.com/SimplyProgger/GitHub-ReadMe-Stats">
+ <img align="center" src="https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger&theme=default" alt="Simply Progger's stats"/>
+</a>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=TheLearn&theme=react)](https://github.com/SimplyProgger/TheLearn)
