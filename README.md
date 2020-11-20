@@ -18,7 +18,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27"/>
 </a>
 <a href="https://github.com/SimplyProgger/GitHub-ReadMe-Stats">
- <img align="center" src="https://enigmatic-harbor-42642.herokuapp.com/?name=simplyprogger&theme=react" alt="Simply Progger's stats"/>
+ <img align="center" src="https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger&theme=react" alt="Simply Progger's stats"/>
 </a>
 
 
