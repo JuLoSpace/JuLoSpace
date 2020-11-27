@@ -23,5 +23,5 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=TheLearn&theme=react)](https://github.com/SimplyProgger/TheLearn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=SimplyProgger-Website&theme=react)](https://github.com/SimplyProgger/SimplyProgger-Website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=SimplyProgger.github.io&theme=react)](https://github.com/SimplyProgger/SimplyProgger.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=GitHub-ReadMe-Stats&theme=react)](https://github.com/SimplyProgger/GitHub-ReadMe-Stats)
