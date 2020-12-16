@@ -12,16 +12,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 <a href="https://github.com/SimplyProgger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyProgger&theme=react&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuLoSpace&theme=react&hide_langs_below=1" />
 </a>
 <a href="https://github.com/SimplyProgger">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimplyProgger&show_icons=true&theme=react&line_height=27"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuLoSpace&show_icons=true&theme=react&line_height=27"/>
 </a>
 <a href="https://github.com/SimplyProgger/GitHub-ReadMe-Stats">
- <img align="center" src="https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger&theme=react" alt="Simply Progger's stats"/>
+ <img align="center" src="https://enigmatic-harbor-42642.herokuapp.com/?name=JuLoSpace&theme=react" alt="JuLoSpace's stats"/>
 </a>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=TheLearn&theme=react)](https://github.com/SimplyProgger/TheLearn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=SimplyProgger.github.io&theme=react)](https://github.com/SimplyProgger/SimplyProgger.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplyProgger&repo=GitHub-ReadMe-Stats&theme=react)](https://github.com/SimplyProgger/GitHub-ReadMe-Stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuLoSpace&repo=TheLearn&theme=react)](https://github.com/JuLoSpace/TheLearn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuLoSpace&repo=JuLoSpace.github.io&theme=react)](https://github.com/JuLoSpace/SimplyProgger.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuLoSpace&repo=GitHub-ReadMe-Stats&theme=react)](https://github.com/JuLoSpace/GitHub-ReadMe-Stats)
